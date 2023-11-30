@@ -1,0 +1,26 @@
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\bin\Debug\MaterialSkin.dll
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CopyComplete
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+\\alpha\ip521-18$\Мои документы\БД\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.Form2.resources
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\bin\Debug\MaterialSkin.dll
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.Form2.resources
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CopyComplete
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+H:\Programs\Рпм\Курсовая\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
